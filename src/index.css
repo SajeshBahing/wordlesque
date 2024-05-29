@@ -1,13 +1,27 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@import url('https://fonts.googleapis.com/css2?family=Suez+One&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root.theme-light {
+  --color-theme-primary:  #15803d;
+  --color-theme-secondary:  #eab308;
+  --color-theme-tertiary:  #71717a;
+  --color-theme-text-primary:  #131313;
+  --color-theme-text-secondary:  #767d89;
+  --color-theme-background: white;
+  --color-theme-button-primary: black;
+  --color-theme-button-primary-text: white;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+:root.theme-dark {
+  --color-theme-primary:  #15803d;
+  --color-theme-secondary:  #eab308;
+  --color-theme-tertiary:  #71717a;
+  --color-theme-text-primary:  white;
+  --color-theme-text-secondary:  white;
+  --color-theme-background: #121213;
+  --color-theme-button-primary: white;
+  --color-theme-button-primary-text: black;
 }
