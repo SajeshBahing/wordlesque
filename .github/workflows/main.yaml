@@ -24,6 +24,11 @@ jobs:
     - name: Build
       run: npm run build
 
+    - name: Set up Git user
+      run: |
+        git config --global user.name "Sajesh Bahing"
+        git config --global user.email "sajesh.bahing22@gmail.com"
+
     - name: Deploy
       run: npm run deploy
       env:
