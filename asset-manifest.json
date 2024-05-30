@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6a12dd86.css",
+    "main.js": "/static/js/main.58449307.js",
+    "static/js/453.5e08c15b.chunk.js": "/static/js/453.5e08c15b.chunk.js",
+    "static/media/wordle-icon.svg": "/static/media/wordle-icon.7e6c44bf1c63631f91700973443cd1b4.svg",
+    "static/media/settings.svg": "/static/media/settings.f5d3cb34b0b8a3bcadc52261659d5a08.svg",
+    "static/media/help.svg": "/static/media/help.c3d39c0b60dfb4dd001016056d869270.svg",
+    "index.html": "/index.html",
+    "static/media/backspace.svg": "/static/media/backspace.67d1c738b83d681a0953b3e5c7419911.svg",
+    "static/media/leaderboard.svg": "/static/media/leaderboard.9beb0a138faac9a7bd2506c3c2f9ec62.svg",
+    "static/media/close.svg": "/static/media/close.74d0fc87e76f2629df0799283cc5c7e7.svg",
+    "static/media/menu.svg": "/static/media/menu.1125a5c50abc9b762185fad1c374ef56.svg",
+    "main.6a12dd86.css.map": "/static/css/main.6a12dd86.css.map",
+    "main.58449307.js.map": "/static/js/main.58449307.js.map",
+    "453.5e08c15b.chunk.js.map": "/static/js/453.5e08c15b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a12dd86.css",
+    "static/js/main.58449307.js"
+  ]
+}
