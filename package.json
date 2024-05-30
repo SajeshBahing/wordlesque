@@ -2,6 +2,7 @@
   "name": "wordle",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://sajeshbahing.github.io/wordlesque",
   "dependencies": {
     "nspell": "^2.1.5",
     "random-words": "^2.0.1",
