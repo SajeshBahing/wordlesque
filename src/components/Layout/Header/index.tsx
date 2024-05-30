@@ -22,7 +22,7 @@ export const Header = () => {
         </a>
       </div>
       <div className="flex-1 font-suez-one text-center text-4xl font-bold text-primary-text sm:text-sm sm:flex-none">
-        Wordle
+        Wordlesque
       </div>
       <div className="flex-1 flex gap-2 justify-end items-center">
         <HelpMenu />
